@@ -22,6 +22,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
 - [PubMedQA](https://pubmedqa.github.io/): answer research questions with yes/no/maybe using abstracts (1k expert labeled, 61.2k unlabeled and 211.3k artificially generated QA instances).
 - [S2ORC](https://github.com/allenai/s2orc): The Semantic Scholar Open Research Corpus.  81.1M English-language academic papers spanning many academic disciplines  largest publicly-available collection of machine-readable academic text). Released under CC BY-NC 4.0.
+- [USDA Phytochemical Database — Enriched v2.0](https://github.com/wirthal1990-tech/USDA-Phytochemical-Database-JSON): 76,907 phytochemical-species records from USDA Dr. Duke's database. Enriched with PubMed citations, ClinicalTrials.gov counts, ChEMBL bioactivity measurements (with PubChem InChIKey fallback), and USPTO patent data. JSON + Parquet. DOI: 10.5281/zenodo.19053087. Released unter CC-BY 4.0. 
 
 ## structures 
 
